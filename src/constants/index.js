@@ -122,13 +122,15 @@ const experiences = [
     ],
   },
   {
-    title: "ERP Technical Consultant Intern",
+    title: "Data Analyst",
     company_name: "Cetas",
     icon: cetas,
     iconBg: "#383E56",
-    date: "Jul 2022 - Sept 2023",
+    date: "Jun 2022 - Oct 2023",
     points: [
-      "Worked on AX tool to build and manage software system that help to run entire business, supporting automation and process in finance, human resources and manufacturing.",
+      "Used Power BI and Microsoft Excel to analyze and visualize data, generating reports to improve decision-making processes.",
+      "Developed interactive dashboards and reports using Power BI to visualize key business metrics and insights.",
+      "Integrated Power BI with PostgreSQL, MongoDB, and other databases to extract and visualize data efficiently.Worked on AX tool to build and manage software system that help to run entire business, supporting automation and process in finance, human resources and manufacturing.",
     ],
   },
 ];
